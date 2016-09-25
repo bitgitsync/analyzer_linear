@@ -141,6 +141,7 @@ if __name__ == '__main__':
     plt.annotate(u'高量程正向偏差C', xy=(1010, 1110), xytext=(800, 1150), arrowprops=dict(facecolor='red', shrink=0.1))
     plt.annotate(u'高低量程偏差交叉点D', xy=(135, 50), xytext=(100, -200), arrowprops=dict(facecolor='red', shrink=0.1))
 
+
     fillLowHighRepeatability = 0
 #    plt.fill(,,alpha=0.3)
 #    fig, (ax1) = plt.subplots(3, 1, sharex=True)
